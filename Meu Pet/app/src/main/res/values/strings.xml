@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meu Pet</string>
+    <string name="essa_a_foto_do_meu_pet">ESSA É A FOTO DO MEU PET</string>
+    <string name="nome_do_pet_biscoito">Nome do pet: Biscoito</string>
+    <string name="foto_de_um_cachorro_medio_pintado_sorrindo_no_sol">foto de um cachorro medio pintado sorrindo no sol</string>
+    <string name="ra_a_do_pet_vira_lata">Raça do pet: Vira lata</string>
+    <string name="idade_do_pet_4_anos">Idade do Pet: 4 anos</string>
+    <string name="mensagem">mensagem</string>
+</resources>
