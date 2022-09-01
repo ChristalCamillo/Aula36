@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minha música favorita</string>
+    <string name="image_description">foto de ombro acima da cantora tiê</string>
+    <string name="music_name">A Noite</string>
+    <string name="music_lyrics"><![CDATA[
+        Palavras não bastam, não dá pra entender
+        E esse medo que cresce não para
+        É uma história que se complicou
+        Eu sei bem o porquê]]></string>
+</resources>
